@@ -232,11 +232,6 @@ body {
 }
 
 
-
-
-
-
-
 /* Bio */ 
 
   .bio {
@@ -323,14 +318,6 @@ body {
 }
 
 
-
-
-
-
-
-
-
-
 /* Work */
 
 .work {
@@ -391,9 +378,6 @@ body {
   border-radius: 15px;
 }
 
-
-
-
 .rectangle{
   position: absolute;
   top: 93%;
@@ -413,10 +397,6 @@ body {
   height: 20%;
   
 }
-
-
-
-
 
 /* SayHi */
 
