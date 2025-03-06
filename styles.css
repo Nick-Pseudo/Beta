@@ -71,11 +71,11 @@ body {
 /*custom font*/
 @font-face {
   font-family: 'BNBoxer';
-  src: url(/assets/fonts/BNBoxer.otf);
+  src: url(assets/fonts/BNBoxer.otf);
 }
 @font-face {
   font-family: 'Copal';
-  src: url(/assets/fonts/Copal\ Std\ Solid.otf)
+  src: url(assets/fonts/Copal\ Std\ Solid.otf)
 }
 
 
