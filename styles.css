@@ -347,6 +347,7 @@ body {
   justify-content: center;
   align-items: center;
   overflow: hidden;
+  box-shadow:10px 10px 8px black;
 }
 
 .item1 {
